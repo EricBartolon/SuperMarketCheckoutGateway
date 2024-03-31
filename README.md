@@ -1,2 +1,2 @@
 # SuperMarketCheckoutGateway
-Gateway for super market checkouts
+LoadBalancer for super market checkouts
